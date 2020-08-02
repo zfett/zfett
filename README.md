@@ -1,7 +1,7 @@
 ![Github Profile Banner](https://i.imgur.com/zPXYQkE.jpg)
----
+  
 ## ✨ About Me
-Hello, my name is Zachary and I am a 19-year-old web developer, graphic designer, and CIS student at Eastern Kentucky University. I've been doing design (both web and graphic) for close to 6 years now. Right now, I'm focused on my education, so my projects are few and far between but I still try to keep active every now and then!
+Hello, my name is Zachary and I am a web developer, graphic designer, and Gen. CIS student at Eastern Kentucky University. I've been doing design (both web and graphic) for close to 6 years now. Right now, I'm focused on my education, so my projects are few and far between but I still try to keep active every now and then!
   
 ## 📖 Current Projects
 Below is a list of the projects I'm working on or are a part of:
@@ -53,3 +53,5 @@ GExSWsY=
 =Itt6
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+---
+*Thanks for visiting my profile! If you like my work and want to support a broke college student, please consider becoming a [GitHub Sponsor!](https://github.com/sponsors/zfett/)*
