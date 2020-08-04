@@ -6,7 +6,7 @@ Hello, my name is Zachary and I am a web developer, graphic designer, and Gen. C
 ## 📖 Current Projects
 Below is a list of the projects I'm working on or are a part of:
 
-- [Noty](https://github.com/zfett/Noty): A free, open-source, and secure productivity and note-taking tool for the modern student.
+- [Noty](https://github.com/noty-developers/Noty): A free, open-source, and secure productivity and note-taking tool for the modern student.
 - ... and that's about it for now!
 
 ## ☎️ Contact Me
