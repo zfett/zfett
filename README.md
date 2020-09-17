@@ -1,7 +1,7 @@
 ![Github Profile Banner](https://raw.githubusercontent.com/zfett/zfett/master/Githubheader.svg)
   
 ## ✨ About Me
-Hello, my name is Zachary and I am a web developer, graphic designer, and Gen. CIS student at Eastern Kentucky University. I've been doing design (both web and graphic) for close to 6 years now. Right now, I'm focused on my education, so my projects are few and far between but I still try to keep active every now and then!
+Hello, my name is Zachary and I am a web developer, graphic designer, software developer from Kentucky. I've been doing designing for close to 7 years now and am branching out into freelance/contract designing!
   
 ## 📖 Current Projects
 Below is a list of the projects I'm working on or are a part of:
