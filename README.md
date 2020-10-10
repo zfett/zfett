@@ -6,8 +6,7 @@ Hello, my name is Zachary and I am a web developer, graphic designer, software d
 ## 📖 Current Projects
 Below is a list of the projects I'm working on or are a part of:
 
-- [Noty](https://github.com/noty-developers/Noty): A free, open-source, and secure productivity and note-taking tool for the modern student.
-- ... and that's about it for now!
+- None yet...
 
 ## ☎️ Contact Me
 I'm currently a freelancing designer, so if you're looking for a vision for your portfolio site, project website, or any other type of website, feel free to reach out to me via the links below! If you just wanna chat, you can do that too!
