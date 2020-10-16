@@ -59,7 +59,8 @@ GExSWsY=
 |:-----------------:|:--------------------:|
 |535,346   | 1,789 |
 <!-- UNSPLASH-STATS:END -->  
-Visit my Unsplash [here!](https://unsplash.com/@zfett)
+Visit my Unsplash [here!](https://unsplash.com/@zfett)  
+*Want to display your Unsplash stats on your `README.md` as well? Use [gabrieluizramos'](https://github.com/gabrieluizramos) custom [GitHub Action](https://github.com/marketplace/actions/unsplash-stats-workflow) in your own profile to display your stats!*  
 
 ---
 *Thanks for visiting my profile! If you like my work and want to support a broke college student, please consider becoming a [GitHub Sponsor!](https://github.com/sponsors/zfett/)*
