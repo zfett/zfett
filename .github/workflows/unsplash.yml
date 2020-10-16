@@ -5,6 +5,9 @@ name: Unsplash Stats
 on:
   schedule:
     - cron:  '0 0 * * *'
+  push:
+    branches:
+      - master
 
 jobs:
   unsplash_stats_job:
