@@ -55,8 +55,9 @@ GExSWsY=
 
 ## 📷 Unsplash Stats
 <!-- UNSPLASH-STATS:START -->
-- **Views**: 535,346
-- **Downloads**: 1,789
+| **Views**         | **Downloads**        |
+|:-----------------:|:--------------------:|
+|535,346   | 1,789 |
 <!-- UNSPLASH-STATS:END -->
 
 ---
