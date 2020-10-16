@@ -1,7 +1,5 @@
 name: Unsplash Stats
 
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
   schedule:
     - cron:  '0 0 * * *'
@@ -18,10 +16,10 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    # Collect and update markdown with Unsplash stats
     - name: Gathering Unsplash stats
       uses: gabrieluizramos/unsplash-stats-workflow@master
       with:
-        username: zfett # your unsplash username
+        username: zfett
         ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
         SECRET_KEY: ${{ secrets.UNSPLASH_SECRET_KEY }}
+        template: table
