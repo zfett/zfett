@@ -57,9 +57,10 @@ GExSWsY=
 <!-- UNSPLASH-STATS:START -->
 | **Views**         | **Downloads**        |
 |:-----------------:|:--------------------:|
-|535,391   | 1,789 |
+|535,346   | 1,789 |
 <!-- UNSPLASH-STATS:END -->  
-Visit my Unsplash [here!](https://unsplash.com/@zfett)  
+Visit my Unsplash [here!](https://unsplash.com/@zfett) 
+  
 *Want to display your Unsplash stats on your `README.md` as well? Use [gabrieluizramos'](https://github.com/gabrieluizramos) custom [GitHub Action](https://github.com/marketplace/actions/unsplash-stats-workflow) in your own profile to display your stats!*  
 
 ---
