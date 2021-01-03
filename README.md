@@ -1,5 +1,3 @@
-![Github Profile Banner](https://raw.githubusercontent.com/zfett/zfett/master/Githubheader.svg)
-  
 ## ✨ About Me
 Hello, my name is Zachary and I am a web developer, graphic designer, software developer from Kentucky. I've been doing designing for close to 7 years now and am branching out into freelance/contract designing!
   
