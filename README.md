@@ -1,11 +1,6 @@
 ## ✨ About Me
 Hello, my name is Zachary and I am a web developer, graphic designer, software developer from Kentucky. I've been doing designing for close to 7 years now and am branching out into freelance/contract designing!
   
-## 📖 Current Projects
-Below is a list of the projects I'm working on or are a part of:
-
-- [#include](https://medium.com/includeweb) is my personal publication covering web accessibility, design, security, and other programming-related topics.
-
 ## ☎️ Contact Me
 I'm currently a freelancing designer, so if you're looking for a vision for your portfolio site, project website, or any other type of website, feel free to reach out to me via the links below! If you just wanna chat, you can do that too!
 
