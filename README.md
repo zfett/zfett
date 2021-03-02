@@ -1,5 +1,9 @@
 ## ✨ About Me
 Hello, my name is Zachary and I am a web developer, graphic designer, software developer from Kentucky. I've been doing designing for close to 7 years now and am branching out into freelance/contract designing!
+
+## ⚙️ Projects & Tinkerings
+- **[MiniCheckers](https://zachfetters.design/projects/minicheckers/)**: A little proof-of-concept for a fully front-end American checkers implentation.
+- **[PCC (Pixel Color Cipher)](https://github.com/zfett/PCC)**: A way to encode ASCII, Unicode, or regular hex data in a small array of pixels.
   
 ## ☎️ Contact Me
 I'm currently a freelancing designer, so if you're looking for a vision for your portfolio site, project website, or any other type of website, feel free to reach out to me via the links below! If you just wanna chat, you can do that too!
