@@ -2,6 +2,7 @@
 Hello, my name is Zachary and I am a web developer, graphic designer, software developer from Kentucky. I've been doing designing for close to 7 years now and am branching out into freelance/contract designing!
 
 ## ⚙️ Projects & Tinkerings
+- **[TextStyl](https://github.com/zfett/textstyl)**: A simple plaintext/markdown editor with advanced text formatting tools and note-making capabilities.
 - **[MiniCheckers](https://zachfetters.design/projects/minicheckers/)**: A little proof-of-concept for a fully front-end American checkers implentation.
 - **[PCC (Pixel Color Cipher)](https://github.com/zfett/PCC)**: A way to encode ASCII, Unicode, or regular hex data in a small array of pixels.
   
