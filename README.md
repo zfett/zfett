@@ -1,5 +1,5 @@
 ## ✨ About Me
-Hello, my name is Zachary and I am a web developer, graphic designer, software developer from Kentucky. I've been doing designing for close to 7 years now and am branching out into freelance/contract designing!
+Hello, my name is Zachary and I am a web developer, graphic designer, software developer from Kentucky. I've been designing for close to 7 years now and am branching out into freelance/contract designing!
 
 ## ⚙️ Projects & Tinkerings
 - **[MiniCheckers](https://zachfetters.design/projects/minicheckers/)**: A little proof-of-concept for a fully front-end American checkers implentation.
