@@ -13,7 +13,6 @@ I'm currently a freelancing designer, so if you're looking for a vision for your
 - Twitter: @zachary_fetters
 - Linkedin: /zfett
 - GitHub: @zfett
-- Keybase: @zfett
 
 My Public Key:
 
