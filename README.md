@@ -1,5 +1,5 @@
 ## ✨ About Me
-Hello, my name is Zachary and I am a web developer, graphic designer, software developer from Kentucky. I've been designing for close to 7 years now and am branching out into freelance/contract designing!
+Hello, my name is Zachary and I am a web developer, graphic designer, software developer from Kentucky.
 
 ## ⚙️ Projects & Tinkerings
 - **[CryptoCam](https://github.com/zfett/CryptoCam)**: A Python module that takes camera input and generates a checksum from its data, used for PRNG.
