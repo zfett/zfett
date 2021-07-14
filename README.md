@@ -2,6 +2,7 @@
 Hello, my name is Zachary and I am a web developer, graphic designer, software developer from Kentucky.
 
 ## ⚙️ Projects & Tinkerings
+- **[AFIF](https://afif-working-group.github.io)**: The Animated Frame-mutation Image Format works by storing pixel changes from all previous frames. Currently a major work-in-progress project.
 - **[CryptoCam](https://github.com/zfett/CryptoCam)**: A Python module that takes camera input and generates a checksum from its data, used for PRNG.
 - **[MiniCheckers](https://zachfetters.design/projects/minicheckers/)**: A little proof-of-concept for a fully front-end American checkers implentation.
 - **[PCC (Pixel Color Cipher)](https://github.com/zfett/PCC)**: A way to encode ASCII, Unicode, or regular hex data in a small array of pixels.
