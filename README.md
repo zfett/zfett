@@ -52,6 +52,9 @@ ojCMjb3S0z6S2ZfrnqOOY4LjvQMGVswoeP+IIlnXWTFfnMD25erL96ALjjcX
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
+## 💼 Seeking Employment!
+I am currently seeking employment as a web designer/front-end developer, preferably at entry/apprentice level! If you know of a place that is hiring, please feel free to contact me using my email above or my other contact methods. If you're an employer, my résumé is available [here!](https://zachfetters.design/assets/file/ZacharyFetters_Resume_Jul2021.pdf)
+
 ## 📷 Unsplash Stats  
 <!-- UNSPLASH-STATS:START -->
 | **Views**         | **Downloads**        |
