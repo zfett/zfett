@@ -60,7 +60,7 @@ I am currently seeking employment as a web designer/front-end developer, prefera
 <!-- UNSPLASH-STATS:START -->
 | **Views**         | **Downloads**        |
 |:-----------------:|:--------------------:|
-|762,970   | 3,009 |
+|764,476   | 3,017 |
 <!-- UNSPLASH-STATS:END -->  
 Visit my Unsplash [here!](https://unsplash.com/@zfett) 
   
